@@ -1,0 +1,44 @@
+
+
+PROJECT SUBMISSION CHECKLIST
+
+==================================
+
+✓ Week 1 Completed
+
+✓ Week 2 Completed
+
+✓ Week 3 Completed
+
+✓ Week 4 Completed
+
+✓ Week 5 Completed
+
+✓ Week 6 Completed
+
+✓ Week 7 Completed
+
+==================================
+
+Required Files
+
+✓ Cleaned Dataset
+
+✓ Business Metrics
+
+✓ AI Prompt
+
+✓ AI Business Report
+
+✓ Final Word Report
+
+✓ README.md
+
+✓ requirements.txt
+
+✓ project_info.json
+
+==================================
+
+Project Ready For Submission
+

@@ -1,0 +1,70 @@
+
+You are a Senior Business Data Analyst.
+
+Below is the summary generated from a Superstore Sales Dataset.
+
+
+
+BUSINESS PERFORMANCE SUMMARY
+
+--------------------------------------------------
+
+Total Sales : ₹2,261,536.78
+
+Total Orders : 4922
+
+Total Customers : 793
+
+Total Products : 1861
+
+Average Sales : ₹230.77
+
+Best Performing Category : Technology
+
+Best Performing Region : West
+
+Top Performing State : California
+
+Top Customer : Sean Miller
+
+Top Product : Canon imageCLASS 2200 Advanced Copier
+
+Best Customer Segment : Consumer
+
+Most Preferred Shipping Mode : Standard Class
+
+
+
+Based on these business metrics, generate a professional business analysis report.
+
+The report should contain:
+
+1. Executive Summary
+
+2. Sales Performance Analysis
+
+3. Customer Behaviour Analysis
+
+4. Product Performance Analysis
+
+5. Regional Performance Analysis
+
+6. Customer Segment Analysis
+
+7. Shipping Mode Analysis
+
+8. Business Strengths
+
+9. Business Risks
+
+10. Recommendations for Business Growth
+
+11. Future Scope
+
+12. Final Conclusion
+
+Write the report in a professional business language suitable for an internship project report.
+
+Do NOT use bullet points everywhere.
+
+Write in detailed paragraphs with proper headings.

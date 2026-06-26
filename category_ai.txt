@@ -1,0 +1,1 @@
+API failed for category insights due to an error.

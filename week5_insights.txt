@@ -1,0 +1,2 @@
+Highest sales region: West
+Highest sales category: Technology

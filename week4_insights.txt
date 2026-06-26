@@ -1,0 +1,4 @@
+1. Technology category generated the highest sales.
+2. Top 10 products contributed significantly to total revenue.
+3. Sales trends indicate seasonal variation.
+4. Certain regions outperform others.
